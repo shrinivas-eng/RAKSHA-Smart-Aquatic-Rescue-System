@@ -6,7 +6,7 @@
 |---|---|
 | ESP32 | Main controller for the wearable device |
 | Water Sensor | Detects contact with water |
-| PPM Sensor | Monitors the required victim parameter |
+| BPM Sensor | Monitors the required victim parameter |
 | MPU6050 | Detects motion and orientation |
 | SOS Button | Allows manual emergency activation |
 | NEO-6M GPS Module | Provides victim location |
